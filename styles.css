@@ -1,5 +1,7 @@
-p {
+body {
     align-items: center;
+}
+p {
     font-family: "Minecraft";
     font-size: 20px;
     color: #fff;
